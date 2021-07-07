@@ -1,0 +1,5 @@
+[[headers]]
+  for = "/*"
+  
+  [headers.values]
+    Content-Security-Policy = "default-src 'none'; img-src https://placekitten.com"
